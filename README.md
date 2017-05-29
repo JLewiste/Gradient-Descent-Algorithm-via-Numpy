@@ -1,4 +1,4 @@
-# Gradient-Descent-Algorithm-via-Numpy
+# Gradient descent algorithm via Numpy
 
 ![Pictures](Pictures/minima.png)
 
